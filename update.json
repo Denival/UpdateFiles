@@ -2,6 +2,21 @@
   "version": 1,
   "files": [
     {
+      "path": "Data/Local/Configs/BuffEffect.fx",
+      "crc": "2A674DC0",
+      "size": 73728
+    },
+    {
+      "path": "Data/Local/Configs/Config.fx",
+      "crc": "7C8054B1",
+      "size": 1284
+    },
+    {
+      "path": "Data/Local/Configs/CustomJewel.fx",
+      "crc": "40E9375A",
+      "size": 37600
+    },
+    {
       "path": "x32/Antihack.dll",
       "crc": "78358C56",
       "size": 1785856

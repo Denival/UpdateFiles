@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "x32/Antihack.dll",
+      "crc": "78358C56",
+      "size": 1785856
+    },
+    {
+      "path": "x32/glew32.dll",
+      "crc": "AFE5E2AA",
+      "size": 389632
+    },
+    {
+      "path": "x32/ogg.dll",
+      "crc": "BB239EF8",
+      "size": 53248
+    },
+    {
+      "path": "x32/Verify.dll",
+      "crc": "EF2094C2",
+      "size": 55808
+    },
+    {
+      "path": "x32/vorbisfile.dll",
+      "crc": "B3544474",
+      "size": 999424
+    },
+    {
+      "path": "x32/wzAudio.dll",
+      "crc": "A0747522",
+      "size": 212992
+    }
+  ]
+}

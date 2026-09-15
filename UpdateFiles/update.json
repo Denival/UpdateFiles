@@ -2,14 +2,24 @@
   "version": 1,
   "files": [
     {
+      "path": "Data/Custom/Launcher/LauncherAtlas.png",
+      "crc": "D2DCE3E5",
+      "size": 13489
+    },
+    {
+      "path": "Data/Custom/Launcher/LauncherBG.jpg",
+      "crc": "D1C787EA",
+      "size": 702918
+    },
+    {
       "path": "Data/Local/Configs/BuffEffect.fx",
       "crc": "2A674DC0",
       "size": 73728
     },
     {
       "path": "Data/Local/Configs/Config.fx",
-      "crc": "20E7E662",
-      "size": 1284
+      "crc": "D231F17B",
+      "size": 2052
     },
     {
       "path": "Data/Local/Configs/CustomJewel.fx",

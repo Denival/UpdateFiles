@@ -12,19 +12,9 @@
       "size": 702918
     },
     {
-      "path": "Data/Local/Configs/BuffEffect.fx",
-      "crc": "2A674DC0",
-      "size": 73728
-    },
-    {
-      "path": "Data/Local/Configs/Config.fx",
-      "crc": "993E2037",
-      "size": 2052
-    },
-    {
-      "path": "Data/Local/Configs/CustomJewel.fx",
-      "crc": "40E9375A",
-      "size": 37600
+      "path": "main.exe",
+      "crc": "5B4C379C",
+      "size": 8478720
     },
     {
       "path": "x32/Antihack.dll",
